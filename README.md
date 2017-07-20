@@ -1,6 +1,7 @@
 
 
-# Angular 2 Fundamentals: Retain App - Google Keep remake applicatio
+# Angular 2 Fundamentals: Retain App - 
+# Google Keep remake application
 
 ----------
 
