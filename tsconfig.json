@@ -5,6 +5,7 @@
     "outDir": "dist",
     "rootDir": "src",
     "sourceMap": true,
+    "lib":["es6","dom"],
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "moduleResolution": "node",
